@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f2c39bd-ac70-44dd-891c-e80afe60bc76" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaiTap1/SinhVien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaiTap1/ThongTin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/phamvitruycap/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/phamvitruycap/Employee.java" afterDir="false" />
-    </list>
+    <list default="true" id="6f2c39bd-ac70-44dd-891c-e80afe60bc76" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
